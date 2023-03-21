@@ -1,0 +1,8 @@
+.tablerow-container {
+    margin: 0 auto;
+    min-height: 150px;
+}
+
+.tablerow-container td {
+min-width: 100px;
+}
