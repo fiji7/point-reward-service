@@ -23,7 +23,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Updating all the dates in the mock service starting from today.
 
 ### `npm start:updateDates`
-Updating all the dates in the mock service starting from today and running the application in the development mode.
+Updating all the dates in the mock service starting from today and running the application in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm run build`
