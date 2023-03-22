@@ -6,7 +6,7 @@ const customers = require('./staticData')
 const data = generateDates(customers);
 const filename = 'data.json';
 const filepath = `${__dirname}/${filename}`;
-const jsonData = JSON.stringify(data);
+const jsonData = JSON.stringify(data, null, 4);
 fs.writeFileSync(filepath, jsonData);
 
 console.log(`Data saved to ${filename}`);

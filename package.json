@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll",
     "updateDates": "node ./src/api/updateDates.js",
     "start:updateDates": "node ./src/api/updateDates.js && react-scripts start",
     "eject": "react-scripts eject"
