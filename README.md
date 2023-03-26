@@ -1,3 +1,6 @@
+# This is a coding assignment that is written in js without typescript and mocked data as it was described in the acceptance criteria.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
