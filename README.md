@@ -1,6 +1,6 @@
 # This is a coding assignment, here are the requirements:
-• Use React JS (do not use TypeScript)
-• Simulate an asynchronous API call to fetch data
+• Use React JS (do not use TypeScript)\
+• Simulate an asynchronous API call to fetch data\
 • Make up a data set to best demonstrate your solution
 
 
